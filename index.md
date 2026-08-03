@@ -7,7 +7,7 @@ The lecture and seminar plan contains information about the timing, topics, cour
 - [Lecture and Seminar Plan](courseplan.md){:target="blank"}
 
 ## Schedule 
-A link to [Timeplan](https://tp.educloud.no/uit/app/schedule?semester=25h&scheduleType=course&filterOpen=true&summary=true&tab=calendar&course=SOK-3025%C2%A41&subjectArea=186341300){:target="blank"} at timeplan.uit.no
+A link to [Timeplan](https://tp.educloud.no/uit/app/schedule?semester=26h&scheduleType=course&filterOpen=true&summary=true&pastWeeks=false&tab=calendar&course=BED-3119%C2%A41&subjectArea=186341300){:target="blank"} at timeplan.uit.no
 
 ## Course description
 
@@ -21,7 +21,7 @@ See full description [here](https://fr.uit.no/utdanning/aktivt/emne/SOK-3025){:t
 
 ## Instructors
 
-- [Dejene, G.K.](https://uit.no/ansatte/dejene.g.kidane){:target="blank"} (subject manager)
+- [Dejene, G.K.](https://uit.no/ansatte/dejene.g.kidane){:target="blank"} 
 - [Øystein Myrland](https://uit.no/ansatte/oystein.myrland){:target="blank"} 
 - [Sverre Braathen Thyholdt](https://uit.no/ansatte/person?p_document_id=50553){:target="blank"}
 - [Jinghua Xie](https://www.uis.no/nb/profile/jinghua-xie){:target="blank"} 
