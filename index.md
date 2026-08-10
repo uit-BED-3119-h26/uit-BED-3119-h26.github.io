@@ -20,11 +20,11 @@ See full description [here](https://fr.uit.no/utdanning/aktivt/emne/SOK-3025){:t
  In this course, you are required to complete one mandatory term paper based on an assigned topic or dataset and deliver a project presentation. The final grade is based solely on the term paper (i.e., there is no final exam). The term paper must be submitted via Wiseflow by the specified deadline. Further details will be provided during the course.
 
 ## Instructors
-
+- [Sverre Braathen Thyholdt](https://uit.no/ansatte/person?p_document_id=50553){:target="blank"}(kursansvarlig)
+- [Jinghua Xie](https://www.uis.no/nb/profile/jinghua-xie){:target="blank"} 
 - [Dejene, G.K.](https://uit.no/ansatte/dejene.g.kidane){:target="blank"} 
 - [Øystein Myrland](https://uit.no/ansatte/oystein.myrland){:target="blank"} 
-- [Sverre Braathen Thyholdt](https://uit.no/ansatte/person?p_document_id=50553){:target="blank"}
-- [Jinghua Xie](https://www.uis.no/nb/profile/jinghua-xie){:target="blank"} 
+
 ## Curriculum
 
 Text book: [Buy the textbook: Principles of Econometrics, 5th Edition (POE5), Wiley - 2018. Available at the campus bookstore Akademika](https://principlesofeconometrics.com/poe5/poe5.html){:target="blank"}
