@@ -1,6 +1,6 @@
 {% include navbar_open.html %}
 
-# courseplan BED-3119 - Markedsanalyse 
+# Courseplan BED-3119 - Markedsanalyse 
 
 | Session <img width=80/>  | Date  |To do/done before/after class... <img width=200/>  |
 |-----------------------|---------|-----------------------------------| 
