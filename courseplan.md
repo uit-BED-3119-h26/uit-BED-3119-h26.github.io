@@ -22,9 +22,12 @@
 |  |      | [Estimating Structural Equations](https://uit-BED-3119-h26.github.io/lecture-chapter-11-b.html)                                                 |
 |  |      |   [R-file](https://raw.githubusercontent.com/uit-BED-3119-h26/uit-BED-3119-h26.github.io/refs/heads/main/lecture-chap-11_b.R) |    
 |  |       |  [R Seminar File](https://raw.githubusercontent.com/uit-BED-3119-h26/uit-BED-3119-h26.github.io/refs/heads/main/coding-seminar-chapters-10-11.R)           | 
-|5 |08/09 | Reading: Seemingly Unrelated Regressions(SUR) found in Canvas folder Files |
+|5 |08/09 | Reading: Two sections on Seemingly Unrelated Regressions(SUR) found in Canvas folder Files |
+|  |      | [When Can Separate Equations Help Estimate Each Other?](https://uit-BED-3119-h26.github.io/SUR-lecture.html)                                                 |
+|  |      |   [R-file](https://raw.githubusercontent.com/uit-BED-3119-h26/uit-BED-3119-h26.github.io/refs/heads/main/SUR-lecture.R) |   
 |6 | 09/09| Continue on SUR |
-|  |      |    |
+|  |      |  BED-3119 Students move to the SOK-3026 class  |
+| |       |                                      |
 
 
 
