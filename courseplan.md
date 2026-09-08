@@ -29,6 +29,7 @@
 |  |      |   [R-file](https://raw.githubusercontent.com/uit-BED-3119-h26/uit-BED-3119-h26.github.io/refs/heads/main/SUR-lecture.R) |   
 |  |      |  [My scribbling notes](https://uit-BED-3119-h26.github.io/Notat_8_sep_2026.pdf) |
 |6 | 09/09| Reading: Chapter 20 - System Estimations (3SLS) found in Canvas folder Files |
+|  |      | [Three-stage least squares: bringing 2SLS and SUR together](https://uit-BED-3119-h26.github.io/3SLS_lecture.html)                                                 |
 |  |       |  [R Seminar File](https://raw.githubusercontent.com/uit-BED-3119-h26/uit-BED-3119-h26.github.io/refs/heads/main/SUR-coding-seminar.R)           | 
 |  |      |  BED-3119 students move to the SOK-3026 class  |
 | |       |                                      |
